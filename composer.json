@@ -14,7 +14,7 @@
         "livewire/livewire": "^3.5",
         "midtrans/midtrans-php": "^2.5",
         "nwidart/laravel-modules": "^10.0",
-        "spatie/laravel-html": "^3.2"
+        "spatie/laravel-html": "^3.5"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
